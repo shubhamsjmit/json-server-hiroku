@@ -1,0 +1,76 @@
+{
+  "Person": [
+    {
+      "UserName": "shubhamkumar",
+      "Password": "1234",
+      "UserId": 1
+    },
+    {
+      "UserName": "aayushmittal",
+      "Password": "12345",
+      "UserId": 2
+    },
+    {
+      "UserName": "deekshant",
+      "Password": "1234",
+      "UserId": 3
+    },
+    {
+      "UserName": "himanshu",
+      "Password": "12345",
+      "UserId": 4
+    }
+  ],
+  "Blogs": [
+    {
+      "category": "Educational",
+      "id": 2,
+      "BlogTitle": "How to Delete a Message on Whatsapp – Unsend a Delivered Message",
+      "BlogDesc": "It has happened with all of us at some point. We ended up sending a message that we didn’t wanted to, and couldn’t take it back. Or, sometimes we sent the right message to the wrong person creating confusion and awkward situations. These mistakes can be harmless and often can be remedied with a simple apology, but sometimes they cause irreparable damage too. So how to delete a message on whatsapp? How do you unsend a delivered message, take back what you said or wrote?",
+      "PostedBy": 4
+    },
+    {
+      "category": "Technology",
+      "id": 3,
+      "BlogTitle": "Best Video Journal App for Android – Relive Your Life",
+      "BlogDesc": "The year end is almost upon us and with it comes the annual routine of creating new good habits and foregoing old bad ones. I have decided to start recording my daily activities in a diary. Since I use OnePlus which is powered by Android, I thought I would go for a video journal that is available on the playstore. Makes it more lively and beautiful. But, how do you know which is the best video journal app for Android?",
+      "PostedBy": 3
+    },
+    {
+      "category": "Technology",
+      "id": 4,
+      "BlogTitle": "Top Open Source Android Apps to Increase Productivity",
+      "BlogDesc": "Android is an open source platform used by hundreds of mobile companies and app developers. So, I decided to share a post on top open source Android apps that will help increase your productivity.",
+      "PostedBy": 2
+    },
+    {
+      "category": "Educational",
+      "id": 5,
+      "BlogTitle": "1234",
+      "BlogDesc": "Hi I am Updated",
+      "PostedBy": 1
+    },
+    {
+      "category": "Informational",
+      "id": 6,
+      "BlogTitle": "qwertyuio",
+      "BlogDesc": "fdxcgvgnbmn",
+      "PostedBy": null
+    },
+    {
+      "category": "Informational",
+      "id": 7,
+      "BlogTitle": "123456",
+      "BlogDesc": "12345",
+      "PostedBy": 1
+    },
+    {
+      "category": "Informational",
+      "id": 8,
+      "BlogTitle": "dsdhfycj",
+      "BlogDesc": "djhfgje",
+      "PostedBy": 1
+    }
+  ],
+  "new": {"a" : 5 }
+}
